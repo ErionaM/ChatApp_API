@@ -1,0 +1,76 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore Visual Studio temporary files
+*.VisualState.xml
+*.vscode/
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Ignore .NET Core artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Rider settings
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Rider, Visual Studio, and Resharper specific files
+*.sln.iml
+*.iws
+*.ipr
+
+# Ignore Resharper directories
+_ReSharper*/
+
+# Ignore Rider directories
+.idea/
+
+# Ignore Visual Studio directories
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Ignore Node.js files
+node_modules/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore TypeScript files
+*.ts
+*.tsx
+*.map
+
+# Ignore Webpack build files
+dist/
